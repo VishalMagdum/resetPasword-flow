@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88995dfe.css",
+    "main.js": "/static/js/main.52f2aac8.js",
+    "static/media/welcom.png": "/static/media/welcom.f0e738336ee9ecd0cc77.png",
+    "static/media/pikachu.gif": "/static/media/pikachu.e61d80e8acdf00f65d50.gif",
+    "index.html": "/index.html",
+    "main.88995dfe.css.map": "/static/css/main.88995dfe.css.map",
+    "main.52f2aac8.js.map": "/static/js/main.52f2aac8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88995dfe.css",
+    "static/js/main.52f2aac8.js"
+  ]
+}
